@@ -1,0 +1,7 @@
+{
+  "name": "EquiLay AI - Pro Betting Automator",
+  "description": "Premium AI-driven automated lay betting platform for UK & Ireland horse racing with real-time risk controls and hands-free voice interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
